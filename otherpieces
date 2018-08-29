@@ -1,0 +1,525 @@
+ <!-- Hero Slider -->
+		<div class="ui-hero ui-hero-slider slider-pro hero-lg"
+			data-fade="true"
+			data-touch_swipe="false"
+			data-auto_play="true"
+			data-autoplay_delay="4500"
+			data-autoplay_on_hover="none" 
+			data-show_dots="true"
+			data-show_arrows="true" >
+			<div class="sp-slides fade">
+				<!-- Slide 1 -->
+				<div class="sp-slide">
+					<div class="container">
+						<div class="row">
+							<div class="col-sm-6" data-vertical_center="true" data-vertical_offset="16">
+								<h1 class="heading sp-layer" data-show-transition="up" data-show-delay="300" data-show-duration="500">
+									Share Journeys
+								</h1>
+								<p class="paragraph sp-layer" data-show-transition="up" data-show-delay="400" data-show-duration="500">
+									Travel with your friends, colleagues, neighbors and be a part of an awesome community.
+								</p>
+								<div class="actions sp-layer" data-show-transition="up" data-show-delay="500" data-show-duration="500">
+									<a class="btn ui-gradient-blue shadow-xl" a href="https://zify.co/carpool.html">Learn More</a>
+								</div>
+							</div>
+							<div class="col-sm-6 sp-layer" data-show-transition="left" data-show-delay="300" data-show-duration="1000">
+								<img src="assets/img/zify-slider/1.jpg" alt="Zify - Instant Carpools" data-uhd data-max_width="550"/>
+							</div>
+						</div><!-- .row -->
+					</div><!-- .container -->
+				</div><!-- .sp-slide -->
+				
+				<!-- Slide 2 -->
+				<div class="sp-slide">
+					<div class="container">
+						<div class="row">
+							<div class="col-sm-6" data-vertical_center="true" data-vertical_offset="16">
+								<h1 class="heading sp-layer" data-show-transition="up" data-show-delay="300" data-show-duration="500">
+									Share Cost
+								</h1>
+								<p class="paragraph sp-layer" data-show-transition="up" data-show-delay="400" data-show-duration="500">
+									Save significantly on your <a href="https://zify.co/commuter.html" target="_blank"><b>commute</b></a> cost and recover your car ownership cost.
+								</p>
+								<div class="actions sp-layer" data-show-transition="up" data-show-delay="500" data-show-duration="500">
+									<a class="btn ui-gradient-blue shadow-xl" a href="https://zify.co/carpool.html">Learn More</a>
+								</div>
+							</div>
+							<div class="col-sm-6 sp-layer" data-show-transition="left" data-show-delay="300" data-show-duration="1000">
+								<img src="assets/img/zify-slider/2.jpg" alt="Zify - Instant Carpools" data-uhd data-max_width="550"/>
+							</div>
+						</div><!-- .row -->
+					</div><!-- .container -->
+				</div><!-- .sp-slide -->
+				
+				<!-- Slide 3 -->
+				<div class="sp-slide">
+					<div class="container">
+						<div class="row">
+							<div class="col-sm-6" data-vertical_center="true" data-vertical_offset="16">
+								<h1 class="heading sp-layer" data-show-transition="up" data-show-delay="300" data-show-duration="500">
+									Share Memories 
+								</h1>
+								<p class="paragraph sp-layer" data-show-transition="up" data-show-delay="400" data-show-duration="500">
+									Learn something new, meet new people, create unforgettable journeys.
+								</p>
+								<div class="actions sp-layer" data-show-transition="up" data-show-delay="500" data-show-duration="500">
+									<a class="btn ui-gradient-blue shadow-xl" a href="https://zify.co/carpool.html">Learn More</a>
+								</div>
+							</div>
+							<div class="col-sm-6 sp-layer" data-show-transition="left" data-show-delay="300" data-show-duration="1000">
+								<img src="assets/img/zify-slider/3.jpg" alt="Zify - Instant Carpools" data-uhd data-max_width="550"/>
+							</div>
+						</div><!-- .row -->
+					</div><!-- .container -->
+				</div><!-- .sp-slide -->
+			</div><!-- .sp-slides -->
+		</div><!-- .ui-hero .slider-pro -->
+   		
+   		<!-- Tabbed Showcase Section -->
+   		<div id="features" class="section bg-light">
+   			<div class="container">
+   				<!-- Section Heading -->
+   				<div class="section-heading center">
+                    <h2 class="heading text-indigo">
+   						How Zify Works
+   					</h2>
+   				</div><!-- .section-heading -->
+   				<!-- UI Tabbed Showcase -->
+   				<div class="row ui-tabbed-showcase">
+   					<!-- Device Slider Column -->
+   					<div class="col-md-6 col-sm-5 animate" data-show="fade-in-right">
+   						<!-- Device Slider -->
+   						<div class="ui-device-slider">
+   							<!-- Device Image -->
+   							<div class="device">
+   								<img src="assets/img/device-slider/device.png" data-uhd alt="Zify - The carpooling app for your daily commutes" />
+   							</div>
+   							<!-- Slider Images -->
+   							<div id="device-slider-2" class="screens owl-carousel owl-theme">
+   								<div class="item">
+   									<img src="assets/img/device-slider/1.png" data-uhd alt="Zify - The carpooling app for your daily commutes" />	
+   								</div>
+   								<div class="item">
+   									<img src="assets/img/device-slider/2.png" data-uhd alt="Zify - The carpooling app for your daily commutes" />	
+   								</div>
+   								<div class="item">
+   									<img src="assets/img/device-slider/3.png" data-uhd alt="Zify - The carpooling app for your daily commutes" />	
+   								</div>
+   								<div class="item">
+   									<img src="assets/img/device-slider/4.png" data-uhd alt="Zify - The carpooling app for your daily commutes" />	
+   								</div>
+   							</div>
+   						</div><!-- .ui-device-slider -->
+   					</div><!-- Device Slider Column -->
+   					
+   					<!-- Tabs Column -->
+   					<div class="col-md-6 col-sm-7" data-vertical_center="true">
+   						<!-- UI Tabs -->
+   						<div class="ui-tabs">
+   							<!-- Nav Tabs -->
+							<ul class="nav nav-tabs" role="tablist">
+								<!-- Nav Tab 1 -->
+								<li role="presentation" class="active">
+									<a href="#home" role="tab" data-toggle="tab" data-toggle_screen="1" data-toggle_slider="device-slider-2">
+									<span class="icon icon-magnifier"></span> SEARCH
+									</a>
+								</li>
+								<!-- Nav Tab 2 -->
+								<li role="presentation">
+									<a href="#profile" role="tab" data-toggle="tab" data-toggle_screen="2" data-toggle_slider="device-slider-2">
+										<span class="icon icon-menu"></span> CHOOSE
+									</a>
+								</li>
+								<!-- Nav Tab 3 -->
+								<li role="presentation">
+									<a href="#messages" role="tab" data-toggle="tab" data-toggle_screen="3" data-toggle_slider="device-slider-2">
+										<span class="icon icon-compass"></span> TRACK
+									</a>
+								</li>
+								<!-- Nav Tab 4 -->
+								<li role="presentation">
+									<a href="#settings" role="tab" data-toggle="tab" data-toggle_screen="4" data-toggle_slider="device-slider-2">
+										<span class="icon icon-emotsmile"></span> PAY &amp; RATE
+									</a>
+								</li>
+							</ul>
+
+							<!-- Tab Panels -->
+							<div class="tab-content">
+								<!-- Tab 1 -->
+								<div role="tabpanel" class="tab-pane fade in active" id="home">
+									<p class="sub-heading">Instantly search &amp; identify carpools going your way. No need of pre-booking your trips everyday. Get free carpool credits when you join the <a href="https://zify.co/rideshareapp.html" target="_blank"><b>rideshare app</b></a>. </p>
+									<ul class="ui-checklist">
+										<li>
+											<h3 class="heading">Confirm your starting point</h6>
+										</li>
+										<li>
+											<h3 class="heading">Enter your destination</h6>
+										</li>
+										<li>
+											<h3 class="heading">Choose when you want to ride</h6>
+										</li>
+										<li>
+											<h3 class="heading">Hit Search and voilà!</h6>
+										</li>
+									</ul>
+								</div>
+								<!-- Tab 2 -->
+								<div role="tabpanel" class="tab-pane fade" id="profile">
+									<p class="sub-heading">Choose from a list of verified car-owners to travel with. Filter your choice based on cost, time and also distance to pickup.</p>
+									<ul class="ui-checklist">
+										<li>
+											<h3 class="heading">Community of verified drivers</h6>
+										</li>
+										<li>
+											<h3 class="heading">Request &amp; get a response instantly</h6>
+										</li>
+										<li>
+											<h3 class="heading">View the exact trip route</h6>
+										</li>
+										<li>
+											<h3 class="heading">Gender based rating for enhanced trust</h6>
+										</li>
+									</ul>
+								</div>
+								<!-- Tab 3 -->
+								<div role="tabpanel" class="tab-pane fade" id="messages">
+									<p class="sub-heading">Watch your ride drive to a pick-up near you in real-time. No need to wait outisde in the hot sun or soaking in the rain.</p>
+									<ul class="ui-checklist">
+										<li>
+											<h3 class="heading">Track your trip in real-time</h6>
+										</li>
+										<li>
+											<h3 class="heading">Connect with your co-rider using phone or sms</h6>
+										</li>
+										<li>
+											<h3 class="heading">Identify your ride using the picture</h6>
+										</li>
+										<li>
+											<h3 class="heading">Cancel your trip anytime</h6>
+										</li>
+									</ul>
+								</div>
+								<!-- Tab 4 -->
+								<div role="tabpanel" class="tab-pane fade" id="settings">
+									<p class="sub-heading">Pay instantly &amp; securely via the Zify Wallet. <a href="https://zify.co/ride.html" target="_blank"><b>Post the trip</b></a>, rate your ride experience and help build an awesome community. </p>
+									<ul class="ui-checklist">
+										<li>
+											<h3 class="heading">Recharge &amp; pay as you go</h6>
+										</li>
+										<li>
+											<h3 class="heading">No credit card required</h6>
+										</li>
+										<li>
+											<h3 class="heading">Easy &amp; hassle free payments</h6>
+										</li>
+										<li>
+											<h3 class="heading">Rate your commute experience</h6>
+										</li>
+									</ul>
+								</div>
+							</div><!-- .tab-content -->
+   						</div><!-- .ui-tabs -->
+					  	
+   					</div><!-- Tabs Column -->
+   				</div><!-- .row -->
+   			</div><!-- .container -->
+   		</div><!-- .section -->	
+        
+   		<!-- Video Section -->
+   		<div class="section bg-overlay bg-overlay-gradient-dark" data-uhd data-bg="assets/img/backgrounds/bg-2.jpg">
+   			<div class="container">
+   				<div class="section-heading center mb-0">
+   					<!-- * Replace data-video with your youtube video id -->
+   					<a class="ui-video-toggle" data-video="LZTg4VrZ28E">
+   						<span class="icon icon-control-play"></span>
+   					</a><br>
+                    <h7 class="heading">
+                        <p style="color:#fff; font-size: 2rem; font-weight: 700;">Be Trendy. Be Happy. Be Zify!</p>
+                    </h7>
+   				</div><!-- .section-heading -->
+   			</div><!-- .container -->
+   		</div><!-- .section -->
+                
+        <!-- Features - Icon Blocks Section -->
+   		<div class="section">
+   			<div class="container ui-icon-blocks ui-blocks-h icons-md">
+   				<div class="section-heading center">
+   					<h2 class="heading text-indigo">
+                        Carpool-as-a-Service&#8482;
+   					</h2>
+   					<p class="paragraph">
+   						Discover our award-winning shared <a href="https://zify.co/mobility.html" target="_blank"><b>mobility</b></a> solution for your organization &amp; become a <i class="text-red">"Great Workplace for Commuters"</i>.
+   					</p>
+   				</div><!-- .section-heading -->
+   				<!-- Icon Blocks -->
+   				<div class="row">
+   					<div class="col-md-3 col-sm-4 col-xs-6 ui-icon-block">
+   						<div class="icon icon-emotsmile text-pink"></div>
+   						<h3>Better Engagement</h3>
+						<p>
+							Employees sharing trips daily are happier &amp; more engaged.
+						</p>
+   					</div>
+   					<div class="col-md-3 col-sm-4 col-xs-6 ui-icon-block">
+   						<div class="icon icon-heart text-lime"></div>
+   						<a href="https://zify.co/reduceco2emissions.html"><h3>Reduce CO2 Footprint</h3></a>
+						<p>
+							Reduce emissions significantly &amp; be more eco-friendly.
+						</p>
+   					</div>
+   					<div class="col-md-3 col-sm-4 col-xs-6 ui-icon-block">
+   						<div class="icon icon-chart text-blue"></div>
+   						<h3>Better Productivity</h3>
+						<p>
+							Employees are more punctual, healthy &amp; more productive.
+						</p>
+   					</div>
+   					<div class="col-md-3 col-sm-4 col-xs-6 ui-icon-block">
+   						<div class="icon icon-badge text-purple"></div>
+   						<a href="https://zify.co/reducefuelexpenses.html"><h3>Reduce Cost</h3></a>
+						<p>
+							Lower fuel consumption & less parking spots needed for cars.
+						</p>
+   					</div>
+   				</div><!-- .ui-icon-block -->
+                <div class="actions sp-layer" data-show-transition="up" data-show-delay="500" data-show-duration="500">
+                    <br><br>
+				    <a class="btn ui-gradient-blue shadow-xl" href="https://zify.co/corporate.html">Learn More</a>
+				</div>
+   			</div><!-- .container -->
+   		</div><!-- .section -->
+   		
+   		<!--  Blog Posts Section -->
+   		<div class="section bg-light">
+   			<div class="container">
+   				<!-- Section Heading -->
+   				<div class="section-heading center">
+   					<h2 class="heading text-indigo">
+   						<a href="https://zify.co/press.html" target="_blank">Zify in the News</a>
+   					</h2>
+   				</div><!-- .section-heading -->
+   				
+   				<!-- UI Blog Grid -->
+   				<div class="row ui-blog-grid">
+					<!-- Blog Item 1 -->
+					<div class="col-md-4">
+						<div class="ui-card post-item ui-action-card shadow-sm bg-indigo" data-target="home.html">
+							<!-- Item Image -->
+							<a href="https://www.youtube.com/watch?v=MVUG-D2fkUY" target="_blank"><div class="card-image" data-bg="assets/img/blog/solarimpulse.png" data-uhd></div></a>
+							<!-- Item Header -->
+							<div class="card-header">
+								<a href="https://www.youtube.com/watch?v=MVUG-D2fkUY" target="_blank"><h3 class="heading">Zify & Solar Impulse</h3>
+							</div>
+							<!-- Item Text -->
+							<a href="https://www.youtube.com/watch?v=MVUG-D2fkUY" target="_blank"><div class="card-body ui-turncate-text">
+                                <p>Zify has been awarded by Solar Impulse as a sustainable solution. Watch the introduction video.</p>
+							</div>
+						</div>
+					</div>
+					<!-- Blog Item 2 -->
+					<div class="col-md-4">
+						<div class="ui-card post-item ui-action-card shadow-sm" data-target="home.html">
+							<!-- Item Image -->
+							<a href="https://www.youtube.com/watch?v=xbJm56E2Mek" target="_blank"><div class="card-image" data-bg="assets/img/blog/impact18_1.png" data-uhd></div>
+							<!-- Item Header -->
+							<div class="card-header">
+								<a href="https://www.youtube.com/watch?v=xbJm56E2Mek" target="_blank"><h3 class="heading">Zify Talk @Impact18</h3>
+							</div>
+							<!-- Item Text -->
+							<div class="card-body ui-turncate-text">
+								<a href="https://www.youtube.com/watch?v=xbJm56E2Mek" target="_blank">
+								<p>Zify was at Impact18 in Krakow. <br>Watch Anurag pitch about the end of car ownership. </p>
+							</div>
+						</div>
+					</div>
+					<!-- Blog Item 3 -->
+					<div class="col-md-4">
+						<div class="ui-card post-item ui-action-card shadow-sm bg-red" data-target="home.html">
+							<!-- Item Image -->
+							<a href="http://www.leparisien.fr/economie/pourquoi-une-prometteuse-start-up-indienne-a-choisi-de-s-installer-en-france-11-06-2018-7764990.php" target="_blank"><div class="card-image" data-bg="assets/img/blog/france.png" data-uhd></div>
+							<!-- Item Header -->
+							<div class="card-header">
+								<a href="http://www.leparisien.fr/economie/pourquoi-une-prometteuse-start-up-indienne-a-choisi-de-s-installer-en-france-11-06-2018-7764990.php" target="_blank"><h3 class="heading">Pourquoi la France ?</h3>
+							</div>
+							<!-- Item Text -->
+							<a href="http://www.leparisien.fr/economie/pourquoi-une-prometteuse-start-up-indienne-a-choisi-de-s-installer-en-france-11-06-2018-7764990.php" target="_blank"><div class="card-body ui-turncate-text">
+								<p> La tour Eiffel plutôt que Big Ben. Anurag Rathor, PDG de Zify a choisi Paris pour installer le quartier général de sa jeune pousse dans l’UE</p>
+							</div>
+						</div>
+					</div><div class="section-heading center">
+   					<h4 class="heading text-indigo">
+   						<a href="https://zify.co/press.html" target="_blank">See more</a>
+   					</h4></div>
+   				</div><!-- .ui-blog-grid -->
+   			</div><!-- .container -->
+   		</div><!-- .section -->
+   		
+   		<!--  Testimonial Section -->
+   		<div class="section">
+   			<div class="container">
+   				<!-- Card Heading -->
+   				<div class="section-heading center">
+   					<h2 class="heading text-indigo">
+   						What People Say
+   					</h2>
+   				</div><!-- .section-heading -->
+   				
+   				<!-- Slider  -->
+				<div class="ui-testimonials slider owl-carousel owl-theme">
+					<!-- Testimonials Item 1 -->
+					<div class="item">
+						<!-- Card -->
+						<div class="ui-card shadow-md">
+							<p>I found out that a colleague of mine lives in the same street. So now I commute to office with... a friend!</p>
+						</div>
+						<!-- User -->
+						<div class="user">
+							<div class="avatar"><img alt="Zify - Instant Carpool" src="assets/img/avatars/morgane.jpg"></div>
+							<div class="info">
+								<h6 class="heading text-indigo">Morgane</h6>
+								<p class="sub-heading">Corporate Manager</p>
+							</div>
+						</div>
+					</div>
+					<!-- Testimonials Item 2 -->
+					<div class="item">
+						<!-- Card -->
+						<div class="ui-card shadow-md">
+							<p> A teammate told me about Zify! The app is really easy to use &amp; I am able to save so much time &amp; money.</p>
+						</div>
+						<!-- User -->
+						<div class="user">
+							<div class="avatar"><img alt="Zify - Instant Carpool" src="assets/img/avatars/perrine.jpg"></div>
+							<div class="info">
+								<h6 class="heading text-indigo">Perrine</h6>
+								<p class="sub-heading">Student</p>
+							</div>
+						</div>
+					</div>
+					<!-- Testimonials Item 3 -->
+					<div class="item">
+						<!-- Card -->
+						<div class="ui-card shadow-md">
+							<p>A much needed solution for a cleaner &amp; greener city. Glad I am able to share my trips &amp; reduce congestion.</p>
+						</div>
+						<!-- User -->
+						<div class="user">
+							<div class="avatar"><img alt="Zify - Instant Carpool" src="assets/img/avatars/eric.jpg"></div>
+							<div class="info">
+								<h6 class="heading text-indigo">Eric</h6>
+								<p class="sub-heading">Lawyer</p>
+							</div>
+						</div>
+					</div>
+					<!-- Testimonials Item 4 -->
+					<div class="item">
+						<!-- Card -->
+						<div class="ui-card shadow-md">
+							<p>A comfortable &amp; affordable alternative for the overcrowded public transport, especially during summer!</p>
+						</div>
+						<!-- User -->
+						<div class="user">
+							<div class="avatar"><img alt="Zify - Instant Carpool" src="assets/img/avatars/elise.jpg"></div>
+							<div class="info">
+								<h6 class="heading text-indigo">Elise</h6>
+								<p class="sub-heading">VP Operations</p>
+							</div>
+						</div>
+					</div>
+					<!-- Testimonials Item 5-->
+					<div class="item">
+						<!-- Card -->
+						<div class="ui-card shadow-md">
+							<p>I really like the community, always fun meeting them, knowing about their experiences and stories.</p>
+						</div>
+						<!-- User -->
+						<div class="user">
+							<div class="avatar"><img alt="Zify - Instant Carpool" src="assets/img/avatars/janko.jpg"></div>
+							<div class="info">
+								<h6 class="heading text-indigo">Janko</h6>
+								<p class="sub-heading">Chief Strategy Officer</p>
+							</div>
+						</div>
+					</div>
+				</div><!-- .ui-testimonials  -->
+   			</div><!-- .container -->
+   		</div><!-- .section -->
+   		
+   		<!-- Subscribe Footer -->
+   		<footer class="ui-footer subscribe-footer ui-waves">
+   			<div class="ui-gradient-purple footer-bg">
+   				<div class="container">
+   					<!-- Form Card -->
+					<div class="ui-card color-card ui-curve form-card shadow-xl">
+						<div class="card-header ui-gradient-peach">
+							<h3 class="heading">Keep in touch</h3>
+							<p class="paragraph">
+								Stay up to date with our announcements, news, offers &amp; stories.
+							</p>
+						</div>
+						<div class="card-body">
+							<!-- Form -->
+							<form autocomplete="on" id="sign-up-form" name="sign-up-form">
+								<div class="form-group">
+									<div class="input-group">
+										<!-- Email Input -->
+										<input autocomplete="email" class="input form-control" data-validation="required" data-validation-error-msg="Please enter your email" name="email" placeholder="Email">
+										<div class="input-group-btn">
+											<!-- Submit Button -->
+											<button class="btn ui-gradient-green">Subscribe <span class="fa fa-send"></span></button>
+										</div>
+									</div>
+								</div>
+							</form>
+						</div>
+					</div>
+					<!--  Download Section -->
+					<div class="text-center download-section">
+						<h2 class="heading">Download Zify Carpool Now</h2>
+						<div class="actions">
+							<a href="https://itunes.apple.com/in/app/zify-instant.../id1003822874" target="_blank" class="btn ui-gradient-green btn-app-store btn-download shadow-lg"><span>Available on the</span> <span>App Store</span></a>
+							<a href="https://play.google.com/store/apps/details?id=com.zifyApp" target="_blank" class="btn ui-gradient-blue btn-google-play btn-download shadow-lg"><span>Available on </span> <span>Google Play</span></a>
+						</div>
+					</div>
+				</div><!-- .container -->	
+   			</div><!-- .footer-bg -->
+   				
+   			<!-- Footer Copyright -->
+   			<div class="footer-copyright bg-dark-gray">
+   				<div class="container">
+					<div class="row">
+						<!-- Copyright -->
+						<div class="col-xs-6" style="text-decoration-color: dimgray">
+							<p>
+								<a href="https://zify.co/fr-FR/" title="Zify France"><img src="assets/img/flags/french.png" alt="https://zify.co/fr-FR/" width="15"> French </a> &nbsp;&nbsp;&nbsp; <a href="https://zify.co/" title="Zify"><img src="assets/img/flags/english.png" alt="https://zify.co" width="15"> English (UK)</a> 
+							</p>
+							<p>
+								<a href="https://zify.co/terms.html" target="_blank" title="Terms & Privacy Policy">Terms of Use</a> &vert; <a href="https://zify.co/cookie.html" target="_blank" title="Zify">Cookie Policy</a> &vert; <a href="https://zify.co/press.html" target="_blank" title="Zify">Press Kit</a> &vert; <a href="https://support.zify.co/portal/home" target="_blank" title="Zify Help Center">Help Center</a> &vert; <a href="https://zify.freshteam.com/jobs" target="_blank" title="Jobs">Jobs</a>
+							</p>
+					
+						</div>	
+						
+						<!-- Social Icons -->
+						<div class="col-xs-6 text-right">
+							<a href="http://www.facebook.com/zify.co" target="_blank" class="btn ui-gradient-blue btn-circle shadow-md">
+								<span class="fa fa-facebook"></span>
+							</a>
+							<a href="http://www.instagram.com/zify" target="_blank" class="btn ui-gradient-peach btn-circle shadow-md">
+								<span class="fa fa-instagram"></span>
+							</a>
+							<a href="http://www.twitter.com/FollowZify" target="_blank" class="btn ui-gradient-green btn-circle shadow-md">
+								<span class="fa fa-twitter"></span>
+							</a>
+							<a href="http://www.linkedin.com/company/zify-co" target="_blank" class="btn ui-gradient-purple btn-circle shadow-md">
+								<span class="fa fa-linkedin"></span>
+							</a>
+							<p>
+								&copy; 2018 <a href="http://www.visitorsdetails.com/wordpresscounter.html "target="_blank" title="Zify">Z</a><a href="http://www.submissionwebdirectory.com/computers_and_internet/ "target="_blank" title="Zify">I</a><a href="http://www.directoryfire.com/" id="R0">FY</a></a>
+							</p>
+						</div>
+					</div>
+   				</div><!-- .container -->
+   			</div><!-- .footer-copyright -->
+   		</footer><!-- .ui-footer -->
